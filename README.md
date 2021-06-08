@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vits56" alt="vits56" /> </p>
 
 
+- 📫 How to reach me **bastosduartebruno@gmail.com**
 - 🌱 I’m currently learning:
  <p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
