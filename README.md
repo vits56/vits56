@@ -6,11 +6,9 @@
 - 📫 How to reach me **bastosduartebruno@gmail.com**
 - 🌱 I’m currently learning:
  <p align="left">
-        
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="50" height="50"/>
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-         
          <p align="center">
 
   
