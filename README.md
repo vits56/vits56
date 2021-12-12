@@ -4,11 +4,7 @@
 
 
 - 📫 How to reach me **bastosduartebruno@gmail.com**
-- 🌱 I’m currently learning:
- <p align="left">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby"  width="30" height="30"/>
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails"  width="30" height="30"/>
-         <p align="center">
+
 
   
 
