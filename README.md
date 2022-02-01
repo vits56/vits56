@@ -1,5 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Bastos</h1>
 
+[![Twitter Badge](https://img.shields.io/badge/-@vits56-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/vits56)](https://twitter.com/vits56)
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Bastos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-bastos-duarte-b172b4125/)](https://www.linkedin.com/in/bruno-bastos-duarte-b172b4125/)
