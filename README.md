@@ -11,3 +11,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vits56" alt="vits56" /> </p>
+
+
+[![wakatime](https://wakatime.com/badge/user/1a1c3b7d-3d23-49ea-aaab-5fd875ba9f60.svg)](https://wakatime.com/@1a1c3b7d-3d23-49ea-aaab-5fd875ba9f60)
